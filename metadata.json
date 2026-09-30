@@ -1,0 +1,6 @@
+{
+  "name": "Health Resilience AI",
+  "description": "AI-powered health-resource resilience platform and mission control for public health supply networks across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
